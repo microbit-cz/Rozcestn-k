@@ -36,12 +36,12 @@
 - [Pracovní list pro žáky](Ulohy-pro-1-stupen/LED-mozaika/LED-mozaika_1-stupen_Pracovni-list.pdf)
 
 #### Poplach, poplach!
-- [Metodický list pro učitele](https://github.com/pslib-cz/MP2021-22_Hubnerova-Michaela_Algoritmizace-s-Micro-bit/blob/main/%C3%9Alohy%20pro%201.%20stupe%C5%88/Poplach%2C%20poplach/Poplach-poplach_1-stupen_Pro-ucitele.pdf)
-- [Pracovní list pro žáky](https://github.com/pslib-cz/MP2021-22_Hubnerova-Michaela_Algoritmizace-s-Micro-bit/blob/main/%C3%9Alohy%20pro%201.%20stupe%C5%88/Poplach%2C%20poplach/Poplach-poplach_1-stupen_Pracovni-list.pdf)
+- [Metodický list pro učitele](Ulohy-pro-1-stupen/Poplach-poplach/Poplach-poplach_1-stupen_Pro-ucitele.pdf)
+- [Pracovní list pro žáky](Ulohy-pro-1-stupen/Poplach-poplach/Poplach-poplach_1-stupen_Pracovni-list.pdf)
 
 #### Pozor, vejce, nespadni!
-- [Metodický list pro učitele](https://github.com/pslib-cz/MP2021-22_Hubnerova-Michaela_Algoritmizace-s-Micro-bit/blob/main/%C3%9Alohy%20pro%201.%20stupe%C5%88/Pozor%2C%20vejce%2C%20nespadni/Pozor-vejce-nespadni_1-stupen_Pro-ucitele.pdf)
-- [Pracovní list pro žáky](https://github.com/pslib-cz/MP2021-22_Hubnerova-Michaela_Algoritmizace-s-Micro-bit/blob/main/%C3%9Alohy%20pro%201.%20stupe%C5%88/Pozor%2C%20vejce%2C%20nespadni/Pozor-vejce-nespadni_1-stupen_Pracovni-list.pdf)
+- [Metodický list pro učitele](Ulohy-pro-1-stupen/Pozor-vejce-nespadni/Pozor-vejce-nespadni_1-stupen_Pro-ucitele.pdf)
+- [Pracovní list pro žáky](Ulohy-pro-1-stupen/Pozor-vejce-nespadni/Pozor-vejce-nespadni_1-stupen_Pracovni-list.pdf)
 
 
 
