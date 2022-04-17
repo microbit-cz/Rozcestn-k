@@ -68,8 +68,8 @@
 
 ### 7. ročník
 #### Tik tok bác (lehčí)
-- [Metodický list pro učitele]()
-- [Pracovní list pro žáky]()
+- [Metodický list pro učitele](Ulohy-pro-2-stupen/Tik-tok-bac_lehci/Tik-tok-bac_lehci_Pro-ucitele.pdf)
+- [Pracovní list pro žáky](Ulohy-pro-2-stupen/Tik-tok-bac_lehci/Tik-tok-bac_lehci_Pracovni-list.pdf)
 
 #### LED mozaika
 - [Metodický list pro učitele](Ulohy-pro-2-stupen/LED-mozaika/LED-mozaika_2-stupen_Pro-ucitele.pdf)
@@ -83,8 +83,8 @@
 ### 9. ročník
 
 #### Tik tok bác (těžší)
-- [Metodický list pro učitele]()
-- [Pracovní list pro žáky]()
+- [Metodický list pro učitele](Ulohy-pro-2-stupen/Tik-tok-bac_tezsi/Tik-tok-bac_tezsi_Pro-ucitele.pdf)
+- [Pracovní list pro žáky](Ulohy-pro-2-stupen/Tik-tok-bac_tezsi/Tik-tok-bac_tezsi_Pracovni-list.pdf)
 
 #### Pozor, vejce, nespadni!
 - [Metodický list pro učitele](Ulohy-pro-2-stupen/Pozor-vejce-nespadni/Pozor-vejce-nespadni_2-stupen_Pro-ucitele.pdf)
