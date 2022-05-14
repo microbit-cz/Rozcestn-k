@@ -61,7 +61,7 @@
 
 #### Zeptáme se publika 1/2
 - [Metodický list pro učitele](Ulohy-pro-1-stupen/Zeptame-se-publika_1-2/Zeptame-se-publika(1-2)_Pro-ucitele.pdf)
-- [Pracovní list pro žáky](Ulohy-pro-1-stupen/Zeptame-se-publika_1-2/Zeptame-se-publika(1-2)_Pracovni-list.pdf)
+
 #### Zeptáme se publika 2/2
 - [Metodický list pro učitele](Ulohy-pro-2-stupen/Zeptame-se-publika_2-2/Zeptame-se-publika(2-2)_2-stupen_Pro-ucitele.pdf)
 - [Pracovní list pro žáky](Ulohy-pro-2-stupen/Zeptame-se-publika_2-2/Zeptame-se-publika(2-2)_2-stupen_Pracovni-list.pdf)
